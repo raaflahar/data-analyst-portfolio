@@ -14,9 +14,14 @@ Hello! I'm a dedicated Data Analyst with a strong passion for transforming compl
 
 ## 📂 Portfolio Projects
 
-1. **Smartphones Sales Analysis**
-   - **Tools**: Power BI
+1. [**Smartphones Sales Analysis**](https://app.powerbi.com/groups/me/reports/57d91e82-583a-4baf-b3e5-d445d3729daf/e0c5fe7da8566df9ba23?ctid=98e1704f-16ed-4689-af8a-a6d6f7f228f0&experience=power-bi)
+
+   - **Tools**: Power BI, Microsoft Excel
    - **Description**: Analysis average smartphones prices sales by brand and models.
+
+2. [**Exploring the Correlation Between Treatment and Health Outcomes**](https://app.powerbi.com/groups/me/reports/f2e909f3-a4fa-4a1d-9a67-59b6079120d1/1a1204ac5b0bd064945f?experience=power-bi)
+   - **Tools** : Power BI, Microsoft Excel
+   - **Description**: This project explores the correlation between different mental health treatment methods—specifically therapy types and medication types—and patient outcomes.
 
 ## 🌐 Contact
 
