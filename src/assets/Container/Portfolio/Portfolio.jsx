@@ -59,7 +59,7 @@ export default function Portfolio() {
                       className=""
                     >
                       <img
-                        src="C:\Users\raafl\Downloads\Learning\data-analyst-portfolio\src\assets\img\portfolio\02 - eksplorasi korelasi perawatan dan hasil pengobatan.png"
+                        src="https://github.com/raaflahar/data-analyst-portfolio/blob/main/src/assets/img/portfolio/02%20-%20eksplorasi%20korelasi%20perawatan%20dan%20hasil%20pengobatan.png?raw=true"
                         alt="Mental Health"
                         className="w-full"
                       />
