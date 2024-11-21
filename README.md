@@ -23,6 +23,10 @@ Hello! I'm a dedicated Data Analyst with a strong passion for transforming compl
    - **Tools** : Power BI, Microsoft Excel
    - **Description**: This project explores the correlation between different mental health treatment methods—specifically therapy types and medication types—and patient outcomes.
 
+3. [**Coffee Shop Insight Dashboard**](https://app.powerbi.com/groups/me/reports/efd654ce-8705-481f-b7a8-4f0ef70eeff1?ctid=98e1704f-16ed-4689-af8a-a6d6f7f228f0&pbi_source=linkShare)
+   - **Tools** : Power BI, Power Query, Microsoft Excel
+   - **Description** : This project is created to gives insight about sales performances with form of dashboard.
+
 ## 🌐 Contact
 
 Feel free to connect with me on LinkedIn or reach out via email to discuss any opportunities or data-related topics.
