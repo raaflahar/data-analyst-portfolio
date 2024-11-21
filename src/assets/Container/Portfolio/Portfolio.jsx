@@ -31,7 +31,7 @@ export default function Portfolio() {
                       className=""
                     >
                       <img
-                        src="https://github.com/raaflahar/data-analyst-portfolio/blob/main/src/assets/img/portfolio/01-penjualan-smartphone.jpg?raw=true"
+                        src="https://github.com/raaflahar/data-analyst-portfolio/blob/main/src/assets/img/portfolio/Coffee-shop-dashboard.png?raw=true"
                         alt="Smartphone Sales"
                         className="w-full"
                       />
