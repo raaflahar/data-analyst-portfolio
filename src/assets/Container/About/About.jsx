@@ -15,7 +15,7 @@ export default function About() {
               foundational in programming and data analytics. I have background
               in analytical thinking and problem-solving, honed through my
               studies, drives my interest in creating efficient and innovative
-              web solutions.
+              data driven solutions.
             </p>
           </div>
           <div className="w-full px-4 lg:w-1/2 lg:flex lg:justify-center">
@@ -55,11 +55,19 @@ export default function About() {
                 width={20}
                 className="w-9 h-9 mr-2 rounded-full hover:scale-90 transition-transform duration-500 ease-in-out"
               />
-              {/* Excel */}
+              {/* Matlab */}
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
                 alt="Matlab"
                 title="Matlab"
+                width={20}
+                className="w-9 h-9 mr-2 rounded-full hover:scale-90 transition-transform duration-500 ease-in-out"
+              />
+              {/* Tableau */}
+              <img
+                src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png"
+                alt="Tableau"
+                title="Tableau"
                 width={20}
                 className="w-9 h-9 mr-2 rounded-full hover:scale-90 transition-transform duration-500 ease-in-out"
               />
